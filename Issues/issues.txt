@@ -1,0 +1,3 @@
+The link to the video recording of the implementaion of the model on De-1 SoC which demonstrates the issue
+
+https://mallareddy-my.sharepoint.com/:v:/g/personal/21n31a6724_mrcet_ac_in/EZLH7LmHfFpCpfdnuRcEqJsB3OG3YIQfAJ9nd1xH7oJQNw?e=XS7kF4
